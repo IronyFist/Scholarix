@@ -37,7 +37,7 @@ import { Route, Routes } from "react-router-dom";
 
 const App = () => {
   useEffect(() => {
-    document.title = "Scholarship Management Website";
+    document.title = "Scholarix Prototype";
   }, []);
 
   useEffect(() => {

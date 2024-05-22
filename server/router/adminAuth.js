@@ -1,7 +1,7 @@
 const express = require("express");
 const router = express.Router();
 const session = require("express-session");
-const db = add your url here
+const db = "mongodb+srv://neerajgandhii2003:leWqz4vqPdELkFoC@cluster0.rf4eghg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 const Admin = require("../model/adminSchema");
 const requireAdminLogin = async(req, res, next) => {
   try {

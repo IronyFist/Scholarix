@@ -36,11 +36,9 @@ const ScholarshipTypes = () => {
                     </svg>
                   </div>
                   <div className="featured_info">
-                    <span>Merit Based Scholarship</span>
+                    <span>Scholarship Search</span>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Tempore ratione facilis animi voluptas exercitationem
-                      molestiae.
+                    Access a comprehensive database of scholarships filtered by criteria such as field of study, location, GPA, and more.
                     </p>
                     <Link to={"/merit-based-scholarships"}>
                       <Button variant="primary" style={{ width: "200px" }}>
@@ -70,14 +68,14 @@ const ScholarshipTypes = () => {
                     </svg>
                   </div>
                   <div className="featured_info">
-                    <span>Need Based Scholarship</span>
+                    <span>Application Tracker</span>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Ut ipsum esse corrupti. Quo, labore debitis!
+                    Keep organized with a tool to track scholarship applications, deadlines, and requirements.
+
                     </p>
                     <Link to={"/need-based-scholarships"}>
                     <Button variant="primary" style={{ width: "200px" }} >
-                      View Scholarships
+                      Check Status
                     </Button>
                     </Link>
                   </div>
@@ -103,14 +101,13 @@ const ScholarshipTypes = () => {
                     </svg>
                   </div>
                   <div className="featured_info">
-                    <span>International Scholarships</span>
+                    <span>Essay Assistance</span>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Non nostrum voluptate totam ipsa corrupti vero!
+                    Get expert tips, examples, and feedback to craft compelling scholarship essays. Make Essays easy with Scholarix!
                     </p>
                     <Link to={"/international-based-scholarships"}>
                     <Button variant="primary" style={{ width: "200px" }} >
-                      View Scholarships
+                      Get Essay Help
                     </Button>
                     </Link>
                   </div>
@@ -143,15 +140,13 @@ const ScholarshipTypes = () => {
                     </svg>
                   </div>
                   <div className="featured_info">
-                    <span>Minority Scholarship</span>
+                    <span>Community Forum</span>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Tempore ratione facilis animi voluptas exercitationem
-                      molestiae.
+                    Connect with peers, share tips, and discuss scholarship opportunities in a supportive community.
                     </p>
                     <Link to={"/minority-based-scholarships"}>
                     <Button variant="primary" style={{ width: "200px" }} >
-                      View Scholarships
+                      Check Feed
                     </Button>
                     </Link>
                   </div>
@@ -177,14 +172,13 @@ const ScholarshipTypes = () => {
                     </svg>
                   </div>
                   <div className="featured_info">
-                    <span>Research Scholarship</span>
+                    <span>Document Storage</span>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Ut ipsum esse corrupti. Quo, labore debitis!
+                    Securely store important documents like college docs, recommendation letters, and resumes for easy access.
                     </p>
                     <Link to={"/research-based-scholarships"}>
                     <Button variant="primary" style={{ width: "200px" }}>
-                      View Scholarships
+                      View Documents
                     </Button>
                     </Link>
                   </div>
@@ -210,14 +204,13 @@ const ScholarshipTypes = () => {
                     </svg>
                   </div>
                   <div className="featured_info">
-                    <span>All Scholarships</span>
+                    <span>Crowdfund your Education</span>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Non nostrum voluptate totam ipsa corrupti vero!
+                    Create crowdfunding campaigns to supplement scholarship funds or raise money for specific educational needs.
                     </p>
                     <Link to="/view-scholarships">
                     <Button variant="primary" style={{ width: "200px" }} >
-                      View Scholarships
+                      Check Out
                     </Button>
                     </Link>
                   </div>

@@ -17,17 +17,17 @@ const Contact = () => {
                     style={{ textDecoration: "none" }}
                   >
                     <i className="ri-mail-line" />
-                    <span>: support@website.com</span>
+                    <span>: support@abcd.com</span>
                   </a>
                 </li>
                 <li>
                   <a
-                    href="www.website.com"
+                    href="www.google.com"
                     className="contact-link"
                     style={{ textDecoration: "none" }}
                   >
                     <i className="ri-earth-line" />
-                    <span>: www.website.com</span>
+                    <span>: www.google.com</span>
                   </a>
                 </li>
                 <li>
@@ -37,7 +37,7 @@ const Contact = () => {
                     style={{ textDecoration: "none" }}
                   >
                     <i className="ri-phone-line" />
-                    <span>: (+001) 123 456 7890</span>
+                    <span>: (+91) 892 036 3781</span>
                   </a>
                 </li>
                 <li>
@@ -50,7 +50,7 @@ const Contact = () => {
                     >
                       <i className="ri-time-line" />
                     </a>
-                    <span>: 9:00 AM - 6:00 PM</span>
+                    <span>: 10:00 AM - 5:30 PM</span>
                   </div>
                 </li>
                 <li>
@@ -60,7 +60,7 @@ const Contact = () => {
                     style={{ textDecoration: "none" }}
                   >
                     <i className="ri-user-location-line" />
-                    <span>: 1644 Deer Ridge Drive Rochelle Park, NJ 07662</span>
+                    <span>: G-8 Area, Press Colony, Rajouri Garden, New Delhi:, Delhi, 110064</span>
                   </a>
                 </li>
               </ul>

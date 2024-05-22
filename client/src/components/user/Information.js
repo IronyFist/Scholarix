@@ -8,87 +8,23 @@ const Information = () => {
           <br />
           <div className="row" >
             <div className="col-6" data-aos="fade-up" data-aos-duration="1000">
-              <h3>Eligibility Criteria</h3>
+              <h3>Problem Statement T_T</h3>
               <ul>
                 <li>
                   <i className="ri-arrow-right-line" />
-                  To be eligible for a scholarship, applicants must meet all of
-                  the necessary requirements specified by the scholarship
-                  program.
+                  Meet Dev, a college student with big dreams and academic potential. Despite his dedication to his studies, Dev faces a significant challenge: his family is not well-off and yet he's unaware of the scholarships and financial assistance offered by his own institution. This lack of awareness leaves Dev struggling to cover the costs of his education and limits his ability to fully pursue his academic goals. Determined to bridge this gap and empower students like Dev, our solution is a comprehensive scholarship website. With our platform, we aim to ensure that every student can access the support they need to excel in their academic journey without financial constraints holding them back.
                 </li>
                 <br />
-                <li>
-                  <i className="ri-arrow-right-line" />
-                  Eligibility requirements may include maintaining a certain
-                  GPA, demonstrating financial need, or being enrolled in a
-                  particular course of study.
-                </li>
-                <br />
-                <li>
-                  <i className="ri-arrow-right-line" />
-                  It is important for applicants to carefully review the
-                  eligibility criteria for each scholarship opportunity they are
-                  interested in.
-                </li>
-                <br />
-                <li>
-                  <i className="ri-arrow-right-line" />
-                  Applicants should ensure that they meet all of the necessary
-                  requirements before applying.
-                </li>
-                <br />
-                <li>
-                  <i className="ri-arrow-right-line" />
-                  Meeting the eligibility criteria is a necessary first step in
-                  the application process.
-                </li>
-                <br />
-                <li>
-                  <i className="ri-arrow-right-line" />
-                  However, meeting the eligibility criteria does not guarantee
-                  that an applicant will receive a scholarship.
-                </li>
               </ul>
             </div>
             <div className="col-6 " data-aos="fade-up" data-aos-duration="2000">
-              <h3>Application Process</h3>
+              <h3>Our Solution :D</h3>
               <ul>
                 <li>
                   <i className="ri-arrow-right-line" />
-                  Research scholarships to identify those that you are eligible
-                  for and interested in
+                  Our solution, Scholarix is a comprehensive scholarship website designed to empower students like Dev, by providing easy access to scholarships and financial assistance. With our platform, students can discover a wide range of scholarships, track their applications, receive personalized recommendations, and access valuable resources to streamline the process. By bridging the gap between students and available financial aid, we aim to ensure that every student can pursue their academic dreams without being hindered by financial constraints.
                 </li>
                 <br />
-                <li>
-                  <i className="ri-arrow-right-line" />
-                  Gather application materials, which may include academic
-                  transcripts, test scores, letters of recommendation, personal
-                  essays or statements, and financial aid information
-                </li>
-                <br />
-                <li>
-                  <i className="ri-arrow-right-line" />
-                  Complete application forms accurately and completely
-                </li>
-                <br />
-                <li>
-                  <i className="ri-arrow-right-line" />
-                  Submit applications by the deadline specified by each
-                  scholarship program
-                </li>
-                <br />
-                <li>
-                  <i className="ri-arrow-right-line" />
-                  Follow up with the scholarship provider to confirm receipt of
-                  your application or to provide additional information if
-                  requested
-                </li>
-                <br />
-                <li>
-                  <i className="ri-arrow-right-line" />
-                  Await the decision, which will be based on the eligibility
-                  criteria and strength of your application
-                </li>
               </ul>
             </div>
           </div>
